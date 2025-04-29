@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy - My Notes</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      line-height: 1.6;
+      color: #333;
+    }
+    h1, h2 {
+      color: #4B5EFC;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Effective Date: April 29, 2025</p>
+
+  <p><strong>My Notes</strong> is committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your data when using our app.</p>
+
+  <h2>1. Information We Collect</h2>
+  <ul>
+    <li><strong>Personal Information:</strong> We do not collect personally identifiable information unless you contact us directly.</li>
+    <li><strong>Note Content:</strong> All your notes are stored locally on your device unless you choose to back them up through third-party services (e.g., Google Drive).</li>
+    <li><strong>Usage Data:</strong> Anonymous usage statistics may be collected to improve app performance and user experience.</li>
+  </ul>
+
+  <h2>2. How We Use Your Information</h2>
+  <p>We use collected data to:</p>
+  <ul>
+    <li>Enhance app functionality and user experience</li>
+    <li>Fix bugs and improve app stability</li>
+    <li>Respond to user support requests</li>
+  </ul>
+
+  <h2>3. Data Sharing</h2>
+  <p>We do not sell, rent, or share your personal data with third parties. Your notes and personal data remain confidential.</p>
+
+  <h2>4. Data Security</h2>
+  <p>We take appropriate security measures to protect your data from unauthorized access. However, we recommend enabling device-level protection (e.g., screen lock, encryption).</p>
+
+  <h2>5. Third-Party Services</h2>
+  <p>Some features (e.g., cloud backup or ads) may involve third-party services. Please refer to their privacy policies for more information.</p>
+
+  <h2>6. Children’s Privacy</h2>
+  <p>My Notes is not intended for children under the age of 13. We do not knowingly collect personal data from children.</p>
+
+  <h2>7. Changes to This Policy</h2>
+  <p>We may update this Privacy Policy from time to time. Updates will be posted within the app and take effect immediately upon publication.</p>
+
+  <h2>8. Contact Us</h2>
+  <p>If you have any questions about this Privacy Policy, please contact us at:</p>
+  <p>Email: <a href="mailto:higjhtech@gmail.com">higjhtech@gmail.com</a></p>
+
+  <p>Thank you for using My Notes.</p>
+</body>
+</html>
